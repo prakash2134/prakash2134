@@ -1,7 +1,6 @@
-- 👋 Hi, I’m @prakash2134
-- 👀 I’m interested in developing appa
+- 👋 Hi, I’m @R.Prakash
+- 👀 I’m interested in developing applications
 - 🌱 I’m currently learning python
-- 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ikxsh.xe(ig acct)
 
 
